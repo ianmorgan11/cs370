@@ -2,7 +2,7 @@
 
 What code were you given?
 
-I was given two .py files, GameMAze and GameExperience as well as an ipynb TreasureHuntGame. 
+I was given two .py files, GameMaze and GameExperience as well as an ipynb TreasureHuntGame. 
 
 What code did you create yourself?
 
